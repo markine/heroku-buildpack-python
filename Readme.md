@@ -1,3 +1,8 @@
+AltSchool fork
+==================================================
+
+This is an AltSchool specific fork of the Heroku python buildpack with a [small set of changes](https://github.com/heroku/heroku-buildpack-python/compare/master...AltSchool:master)
+
 Heroku buildpack: Python
 ========================
 
